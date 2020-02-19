@@ -1,0 +1,26 @@
+{
+  "name": "webpacktheory",
+  "version": "1.0.0",
+  "description": "webpack theory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kotfil/WebPackTheory.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "Fil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kotfil/WebPackTheory/issues"
+  },
+  "homepage": "https://github.com/Kotfil/WebPackTheory#readme",
+  "devDependencies": {
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11"
+  }
+}
